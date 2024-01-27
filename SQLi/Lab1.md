@@ -1,4 +1,4 @@
-# Laboratuvar: WHERE yan tümcesinde gizli verilerin alınmasına izin veren SQL enjeksiyon güvenlik açığı
+# Lab: SQL injection vulnerability in WHERE clause allowing confidential data to be retrieved
 
 ![image](https://github.com/tutumurat/PortSwiggerLabs/assets/131826005/56ca3e80-6988-4173-bde7-19b0b9a04124)
 
